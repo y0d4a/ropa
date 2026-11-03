@@ -5,7 +5,7 @@ version = '1.0'
 
 packages = find_packages()
 
-install_requires = ['filebytes>=0.9.12', 'capstone==3.0.4',
+install_requires = ['filebytes>=0.9.12', 'capstone==4.0.0',
                     'keystone-engine', 'ropper==1.11.2', 'pyvex']
 
 setup(
